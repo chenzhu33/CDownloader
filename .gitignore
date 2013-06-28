@@ -213,3 +213,10 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#############
+## Android
+#############
+gen/
+local.properties
+proguard-project.txt
